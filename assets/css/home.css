@@ -36,7 +36,7 @@
       display: inline-block;
       min-width: 70px;
       font-weight: 400;
-      color: #ca6f6f;
+      color: #274577;
     }
   
     .experience-card {
@@ -68,7 +68,7 @@
     }
     .experience-info a {
         text-decoration: none;
-        color: #ca6f6f;
+        color: #274577;
     }
     .experience-container {
         display: flex;
@@ -95,6 +95,18 @@
     .publication-card > div > div > strong {
         color: #202124;
     }
+    .publication-card > div > div {
+        font-size: 13px;
+        line-height: 1.4;
+    }
+    .publication-card > div > div > strong:first-child {
+        font-size: 15px;
+    }
+    /* .publication-card > div > div > br {
+        display: block;
+        margin-bottom: 8px;
+        content: "";
+    } */
     .publication-card i {
         color: #6b7280;
     }
@@ -139,9 +151,9 @@
     }
 
     .publication-card.featured {
-        border-color: #f5bba7;
-        background: #fef5f1;
-        box-shadow: 0 4px 8px rgba(242, 166, 120, 0.2);
+        border-color: #b3c8e8;
+        background: #f0f5ff;
+        box-shadow: 0 4px 8px rgba(45, 106, 180, 0.15);
         z-index: 10;
     }
 
@@ -174,9 +186,9 @@
     }
     
     .pub-button.active {
-        background-color: #ca6f6f;
+        background-color: #274577;
         color: white;
-        border-color: #ca6f6f;
+        border-color: #274577;
     }
 
       .publication-view[hidden] {
@@ -228,9 +240,9 @@
         margin-right: 6px;
         padding: 2px 8px;
         border-radius: 999px;
-        border: 1px solid rgba(245, 187, 167, 0.75);
-        background: #fef5f1;
-        color: #b95f3d;
+        border: 1px solid rgba(179, 200, 232, 0.75);
+        background: #f0f5ff;
+        color: #2d6ab4;
         font-size: 11px;
         font-weight: 650;
         line-height: 1.35;
@@ -261,7 +273,7 @@
     }
 
     .pub-list-note {
-        color: #c7774c;
+        color: #4a7cc7;
         font-style: italic;
         font-weight: 650;
     }
@@ -272,12 +284,12 @@
 
     .pub-list-links a {
         margin-left: 4px;
-        color: #c7774c !important;
+        color: #4a7cc7 !important;
         font-weight: 600;
     }
 
       .pub-list-links a:hover {
-        color: #b65f36 !important;
+        color: #1e3d6e !important;
     }
 
     /* Projects cards: keep styles independent from publications */
@@ -359,15 +371,15 @@
         .main-heading {
             font-family: 'Permanent Marker', cursive;
             text-align: center;
-            color: #ca6f6f;
+            color: #274577;
         }
         div.markdown-body a,a {
             text-decoration: none !important;
-            color: #ca6f6f;
+            color: #274577;
             transition: all 0.3s ease;
         }
         div.markdown-body a:hover, a:hover {
-            color: #c71585;
+            color: #1565c0;
             text-decoration: underline;
         }
 

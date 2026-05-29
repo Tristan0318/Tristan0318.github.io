@@ -10,9 +10,6 @@ main:
   - title: "Pub"
     url: "/#publications"
 
-  - title: "Project"
-    url: "/#projects"
-
   - title: "Awards"
     url: "/#awards"
 
@@ -22,8 +19,6 @@ main:
   - title: "Talks"
     url: "/#talks"
     
-  - title: "CV-En"
-    url: "/files/weidongtang_resume.pdf"
 
   # - title: "CV-Cn"
   #   url: "/files/chinese_resume.pdf"

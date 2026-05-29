@@ -1,24 +1,24 @@
 locale                   : "en-US"
-title                    : "WowPage"
+title                    : "Xinyu Yan / Homepage"
 title_separator          : "-"
-name                     : "Your Name"
-description              : &description "A clean academic homepage template."
+name                     : "Xinyu Yan"
+description              : &description "担负起天下的兴亡"
 url                      : ""
 baseurl                  : ""
 repository               : ""
 
 author:
-  avatar           : "1.png"
-  name             : "Your Name"
-  pronouns         :
-  bio              : "Student and researcher."
-  location         : "City, Country"
-  employer         : "Institution or Company"
+  avatar           : "avatar.png"
+  name             : "Xinyu Yan (严昕宇)"
+  pronouns         : "He/Him"
+  bio              : "PhD Student"
+  location         : "Singapore"
+  employer         : "Nanyang Technological University"
   uri              :
-  email            : "name@example.com"
+  email            : "Tristan_Yan@outlook.com"
 
   arxiv            :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=QXkrWQoAAAAJ"
   impactstory      :
   orcid            :
   semantic         :
@@ -28,7 +28,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           :
+  github           : "Tristan0318"
   kaggle           :
   stackoverflow    :
 
