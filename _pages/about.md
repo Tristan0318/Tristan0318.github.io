@@ -27,9 +27,8 @@ News
 <li><span class="news-date"><em>2026.01</em></span> 🎉 One paper has been accepted at EACL 2026 Main Conference (Oral).</li>
 <li><span class="news-date"><em>2025.11</em></span> 🎉 One paper has been accepted at AAAI-26 Main Technical Track (Poster).</li>
 <li><span class="news-date"><em>2025.09</em></span> 🎉 One paper has been accepted at NeurIPS 2025 (Poster).</li>
-<li><span class="news-date"><em>2024.08</em></span>  I join Midori Lab at Nanyang Technological University as a Research Assistant.</li>
-<li><span class="news-date"><em>2024.08</em></span> 🥳 I join the Midori Lab at Nanyang Technological University as a Research Assistant.</li>
-<li><span class="news-date"><em>2024.08</em></span> 🥰 I begin my master studies at Nanyang Technological University (NTU).</li>
+<li><span class="news-date"><em>2024.08</em></span> 🥳 I joined the Midori Lab at Nanyang Technological University as a Research Assistant.</li>
+<li><span class="news-date"><em>2024.08</em></span> 🥰 I begin my master's studies at Nanyang Technological University (NTU).</li>
   </ul>
 </div>
 
