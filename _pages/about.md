@@ -9,9 +9,11 @@ redirect_from:
 ---
 <h1 class="main-heading">Hi there <img src="images/Hi.gif" width="40px"> Welcome to my Homepage!</h1>
 
-Hi! I'm <strong style="color:#274577;">Xinyu Yan</strong> (Tristan), currently a Ph.D. student at College of Computing and Data Science, Nanyang Technological University, where I am fortunate to be supervised by <a href="https://sites.google.com/view/wyb/people">Prof. Wei Yang Bryan Lim</a>. I am also affiliated with the Alibaba-NTU Global e-Sustainability CorpLab (ANGEL).
+Hi! I'm <strong style="color:#274577;">Xinyu Yan</strong> (Tristan), currently a Ph.D. student at <a href="https://www.ntu.edu.sg/computing">College of Computing and Data Science</a>, Nanyang Technological University, where I am fortunate to be supervised by <a href="https://sites.google.com/view/wyb/people">Prof. Wei Yang Bryan Lim</a>. I am also affiliated with the Alibaba-NTU Global e-Sustainability CorpLab (ANGEL).
 
 My research interests primarily focus on <strong style="color:#274577;">Trustworthy AI</strong> (LLM Unlearning, Deepfake Detection) and <strong style="color:#274577;">Efficient AI</strong> (Efficient LLM Serving, Edge Computing), as well as other emerging areas in AI. I enjoy exploring diverse research directions and collaborating with researchers across different fields.
+
+Outside of research, I have a deep passion for **History** and **Philosophy**,  which often inspire the way I think about problems. I am also an avid fan of **Anime** and enjoy **Traveling** and **Hiking** whenever I get the chance 🏔️, as there is something about reaching a summit that feels not too different from finishing a paper.
 
 Please feel free to reach out 🥳, if you are interested in collaboration or potential opportunities!
 
@@ -21,15 +23,16 @@ News
 ---------------
 <div class="news-box">
   <ul class="news-list">
+<li><span class="news-date"><em>2026.01</em></span> 🎓 I receive my M.Sc. in Artificial Intelligence from Nanyang Technological University (NTU).</li>
 <li><span class="news-date"><em>2026.01</em></span> 🎉 One paper has been accepted at ICLR 2026 (Poster).</li>
-<li><span class="news-date"><em>2026.01</em></span> 🥳 I am also affiliated with the Alibaba-NTU Global e-Sustainability CorpLab (ANGEL).</li>
+<li><span class="news-date"><em>2026.01</em></span> 🌟 I am also affiliated with the Alibaba-NTU Global e-Sustainability CorpLab (ANGEL).</li>
 <li><span class="news-date"><em>2026.01</em></span> 🥰 I begin my Ph.D. studies at Nanyang Technological University (NTU).</li>
 <li><span class="news-date"><em>2026.01</em></span> 🎉 One paper has been accepted at EACL 2026 Main Conference (Oral).</li>
 <li><span class="news-date"><em>2025.11</em></span> 🎉 One paper has been accepted at AAAI-26 Main Technical Track (Poster).</li>
 <li><span class="news-date"><em>2025.09</em></span> 🎉 One paper has been accepted at NeurIPS 2025 (Poster).</li>
-<li><span class="news-date"><em>2024.08</em></span>  I join Midori Lab at Nanyang Technological University as a Research Assistant.</li>
 <li><span class="news-date"><em>2024.08</em></span> 🥳 I join the Midori Lab at Nanyang Technological University as a Research Assistant.</li>
-<li><span class="news-date"><em>2024.08</em></span> 🥰 I begin my master studies at Nanyang Technological University (NTU).</li>
+<li><span class="news-date"><em>2024.08</em></span> 🥰 I begin my master's studies at Nanyang Technological University (NTU).</li>
+<li><span class="news-date"><em>2024.07</em></span> 🎓 I receive my B.Eng. in Computer Science and Technology from Shanghai University (SHU).</li>
   </ul>
 </div>
 
