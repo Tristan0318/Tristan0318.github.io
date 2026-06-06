@@ -96,12 +96,12 @@ Publications
         Boyang Chen,
         Jiaming Zhang,
         Tiantong Wu,
-        Hong Xi Tae,
+        Hong Xi Tae,<br>
         Yichen He,
         Tiantong Wang,
         Yachun Mi,
         Yurong Hao,
-        Yilei Zhao,
+        Yilei Zhao,<br>
         Lei Xiao,
         Longtao Huang,
         Pengjun Xie,
@@ -166,7 +166,7 @@ Publications
         <strong>Xinyu Yan</strong>,
         Tiantong Wu,
         Wenjie Li,
-        Tianxiang Chen,
+        Tianxiang Chen,<br>
         Yang Cao,
         Ran Yan,
         Longtao Huang,
@@ -260,3 +260,20 @@ Services
 
 Talks
 --------
+- *2025.05*, Efficient LLM Serving, Institute of Science Tokyo, Tokyo, Japan.
+
+
+
+Mottos
+--------
+<blockquote style="border-left: 3px solid #274577; margin: 16px 0; padding: 8px 18px; color: #555; font-style: italic;">
+  “Man’s dearest possession is life. It is given to him but once, and he must live it so as to feel no torturing regrets for wasted years, never know the burning shame of a mean and petty past; so live that, dying he might say: all my life, all my strength were given to the finest cause in all the world—the fight for the Liberation of Mankind.”<br>
+  <span style="display: block; margin-top: 6px; text-align: right; font-style: normal; color: #888;">— Nikolai Ostrovsky, How the Steel Was Tempered</span>
+</blockquote>
+
+<blockquote style="border-left: 3px solid #274577; margin: 16px 0; padding: 8px 18px; color: #555; font-style: italic;">
+  “Trust the fact that history will judge events honestly and you will never have to be embarrassed for what your father did. On no account ever be one of those people who criticize but do not follow through their actions. Such people are hypocrites, weak, worthless people who do not have the power to reconcile their beliefs with their actions. I wish you courage, my dear. Be strong in the belief that life is wonderful. Be positive and believe that the Revolution will always win.”<br>
+  <span style="display: block; margin-top: 6px; text-align: right; font-style: normal; color: #888;">— Sablin's last letter to his son before his execution</span>
+</blockquote>
+
+
