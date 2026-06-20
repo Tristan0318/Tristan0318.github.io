@@ -256,6 +256,7 @@ Services
 - Technical Reviewer for ICML 2026 (<a href="https://icml.cc/Conferences/2026/ProgramCommittee#gold">Gold Reviewer</a>).
 - Reviewer for NeurIPS 2026 Evaluations and Datasets Track.
 - Reviewer for the Transactions on Machine Learning Research (TMLR)
+- Program Committee of IEEE AIoT 2026 (IEEE Annual Congress on Artificial Intelligence of Things)
 
 
 
